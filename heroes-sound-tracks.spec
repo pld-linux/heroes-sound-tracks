@@ -1,5 +1,5 @@
 Summary:	Game like Nibbles but different - sound tracks
-Summary(pl.UTF-8):   Gra w stylu Nibbles, ale inna - podkład dźwiękowy
+Summary(pl.UTF-8):	Gra w stylu Nibbles, ale inna - podkład dźwiękowy
 Name:		heroes-sound-tracks
 Version:	1.0
 Release:	1
